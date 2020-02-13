@@ -1,0 +1,29 @@
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+h2{
+    /* text-align: center; */
+    display: inline-block;
+}
+.b2{
+    font-size: 30px;
+    width: 50%;
+    align-self: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-color: black;
+    margin-bottom: 10px;
+}
+.topNav{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.headbuttons{
+margin-left: 780px;
+}
